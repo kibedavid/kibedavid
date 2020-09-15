@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name name id david(dave), i am an economist,data scientist and web developer.
+My name name is david(dave), i am an economist,data scientist and web developer.
 
 
 <!--
