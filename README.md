@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name name id david(dave), i am an economist,data scientist and web developer.
+
 
 <!--
 **kibedavid/kibedavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
