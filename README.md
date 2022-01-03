@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is david(dave), I am an Economist,Data Scientis| Co-Founder DataScienceEastAfrica @DataScience_Ea and Web Developer.
+My name is david(dave), I am an Economist, Data Scientist| Co-Founder DataScienceEastAfrica @DataScience_Ea and Web Developer.
 
 
 <!--
