@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is david(dave), I am an Economist and Android Developer.
+My name is david(dave), I am an Economist and Software Developer.
 
 
 <!--
